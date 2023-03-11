@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Amanda 👋 
 
-Data Science Student from XP - Educação (2022/2026). 
+Data Science Student from XP Educação (2022/2026). 
 
 ---
 ### About me:
