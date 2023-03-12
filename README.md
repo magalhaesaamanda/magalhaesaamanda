@@ -41,7 +41,7 @@ Data Science Student from XP Educação (2022/2026).
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=magalhaesaamanda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magalhaesaamanda&layout=compact&langs_count=7&theme=dark"/>
 
-  ![Snake animation](https://github.com/magalhaesaamanda/magalhaesaamanda/blob/main/.github/workflows/commit.yml)
+  ![Snake animation](https://github.com/magalhaesaamanda/magalhaesaamanda/blob/output/github-contribution-grid-snake.svg))
     
 </div>
     
